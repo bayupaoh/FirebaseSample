@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
                 //Storing values to firebase
                 ref.child("Person").setValue(person);
 
+
             }
         });
 
